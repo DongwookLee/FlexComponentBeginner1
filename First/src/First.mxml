@@ -6,4 +6,5 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	<s:Button />
+	<s:Button />
 </s:Application>
